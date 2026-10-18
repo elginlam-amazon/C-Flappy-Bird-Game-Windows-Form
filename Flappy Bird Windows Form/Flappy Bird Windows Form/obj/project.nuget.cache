@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3WNe5Pe+GNM=",
+  "success": true,
+  "projectFilePath": "/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/Flappy Bird Windows Form.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.windowsdesktop.app.ref/10.0.13/microsoft.windowsdesktop.app.ref.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

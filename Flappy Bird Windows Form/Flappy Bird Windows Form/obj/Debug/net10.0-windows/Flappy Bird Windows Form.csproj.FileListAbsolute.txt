@@ -1,0 +1,19 @@
+/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/bin/Debug/net10.0-windows/Flappy Bird Windows Form
+/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/bin/Debug/net10.0-windows/Flappy Bird Windows Form.dll.config
+/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/bin/Debug/net10.0-windows/Flappy Bird Windows Form.deps.json
+/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/bin/Debug/net10.0-windows/Flappy Bird Windows Form.runtimeconfig.json
+/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/bin/Debug/net10.0-windows/Flappy Bird Windows Form.dll
+/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/bin/Debug/net10.0-windows/Flappy Bird Windows Form.pdb
+/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/Debug/net10.0-windows/Flappy_Bird_Windows_Form.Form1.resources
+/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/Debug/net10.0-windows/Flappy_Bird_Windows_Form.Properties.Resources.resources
+/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/Debug/net10.0-windows/Flappy Bird Windows Form.csproj.GenerateResource.cache
+/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/Debug/net10.0-windows/Flappy Bird Windows Form.GeneratedMSBuildEditorConfig.editorconfig
+/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/Debug/net10.0-windows/Flappy Bird Windows Form.AssemblyInfoInputs.cache
+/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/Debug/net10.0-windows/Flappy Bird Windows Form.AssemblyInfo.cs
+/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/Debug/net10.0-windows/Flappy Bird Windows Form.csproj.CoreCompileInputs.cache
+/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/Debug/net10.0-windows/Flappy Bird Windows Form.sourcelink.json
+/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/Debug/net10.0-windows/Flappy Bird Windows Form.dll
+/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/Debug/net10.0-windows/refint/Flappy Bird Windows Form.dll
+/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/Debug/net10.0-windows/Flappy Bird Windows Form.pdb
+/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/Debug/net10.0-windows/Flappy Bird Windows Form.genruntimeconfig.cache
+/data/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/Debug/net10.0-windows/ref/Flappy Bird Windows Form.dll
