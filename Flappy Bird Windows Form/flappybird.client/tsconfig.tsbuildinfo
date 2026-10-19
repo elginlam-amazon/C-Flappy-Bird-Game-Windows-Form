@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/Leaderboard.tsx","./src/api.ts","./src/main.tsx","./src/game/FlappyBirdGame.tsx","./src/game/game.test.ts","./src/game/game.ts","./vite.config.ts"],"version":"5.6.3"}
