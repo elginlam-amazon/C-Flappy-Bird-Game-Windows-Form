@@ -1,0 +1,21 @@
+.board {
+  position: relative;
+  overflow: hidden;
+  background-color: aqua;
+}
+
+.sprite {
+  position: absolute;
+  display: block;
+  user-select: none;
+  pointer-events: none;
+}
+
+.score {
+  position: absolute;
+  white-space: nowrap;
+  background-color: moccasin;
+  font-family: 'Arial Narrow', Arial, sans-serif;
+  font-size: 24pt;
+  font-weight: bold;
+}
