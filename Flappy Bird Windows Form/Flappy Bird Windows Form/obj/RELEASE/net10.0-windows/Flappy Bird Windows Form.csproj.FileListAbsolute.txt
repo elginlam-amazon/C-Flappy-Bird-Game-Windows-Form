@@ -1,0 +1,19 @@
+/mnt/efs/011d72cbf28db7402095aa4fc40422e9/code/Flappy Bird Windows Form/Flappy Bird Windows Form/bin/RELEASE/net10.0-windows/Flappy Bird Windows Form
+/mnt/efs/011d72cbf28db7402095aa4fc40422e9/code/Flappy Bird Windows Form/Flappy Bird Windows Form/bin/RELEASE/net10.0-windows/Flappy Bird Windows Form.dll.config
+/mnt/efs/011d72cbf28db7402095aa4fc40422e9/code/Flappy Bird Windows Form/Flappy Bird Windows Form/bin/RELEASE/net10.0-windows/Flappy Bird Windows Form.deps.json
+/mnt/efs/011d72cbf28db7402095aa4fc40422e9/code/Flappy Bird Windows Form/Flappy Bird Windows Form/bin/RELEASE/net10.0-windows/Flappy Bird Windows Form.runtimeconfig.json
+/mnt/efs/011d72cbf28db7402095aa4fc40422e9/code/Flappy Bird Windows Form/Flappy Bird Windows Form/bin/RELEASE/net10.0-windows/Flappy Bird Windows Form.dll
+/mnt/efs/011d72cbf28db7402095aa4fc40422e9/code/Flappy Bird Windows Form/Flappy Bird Windows Form/bin/RELEASE/net10.0-windows/Flappy Bird Windows Form.pdb
+/mnt/efs/011d72cbf28db7402095aa4fc40422e9/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/RELEASE/net10.0-windows/Flappy_Bird_Windows_Form.Form1.resources
+/mnt/efs/011d72cbf28db7402095aa4fc40422e9/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/RELEASE/net10.0-windows/Flappy_Bird_Windows_Form.Properties.Resources.resources
+/mnt/efs/011d72cbf28db7402095aa4fc40422e9/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/RELEASE/net10.0-windows/Flappy Bird Windows Form.csproj.GenerateResource.cache
+/mnt/efs/011d72cbf28db7402095aa4fc40422e9/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/RELEASE/net10.0-windows/Flappy Bird Windows Form.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/efs/011d72cbf28db7402095aa4fc40422e9/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/RELEASE/net10.0-windows/Flappy Bird Windows Form.AssemblyInfoInputs.cache
+/mnt/efs/011d72cbf28db7402095aa4fc40422e9/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/RELEASE/net10.0-windows/Flappy Bird Windows Form.AssemblyInfo.cs
+/mnt/efs/011d72cbf28db7402095aa4fc40422e9/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/RELEASE/net10.0-windows/Flappy Bird Windows Form.csproj.CoreCompileInputs.cache
+/mnt/efs/011d72cbf28db7402095aa4fc40422e9/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/RELEASE/net10.0-windows/Flappy Bird Windows Form.sourcelink.json
+/mnt/efs/011d72cbf28db7402095aa4fc40422e9/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/RELEASE/net10.0-windows/Flappy Bird Windows Form.dll
+/mnt/efs/011d72cbf28db7402095aa4fc40422e9/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/RELEASE/net10.0-windows/refint/Flappy Bird Windows Form.dll
+/mnt/efs/011d72cbf28db7402095aa4fc40422e9/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/RELEASE/net10.0-windows/Flappy Bird Windows Form.pdb
+/mnt/efs/011d72cbf28db7402095aa4fc40422e9/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/RELEASE/net10.0-windows/Flappy Bird Windows Form.genruntimeconfig.cache
+/mnt/efs/011d72cbf28db7402095aa4fc40422e9/code/Flappy Bird Windows Form/Flappy Bird Windows Form/obj/RELEASE/net10.0-windows/ref/Flappy Bird Windows Form.dll
